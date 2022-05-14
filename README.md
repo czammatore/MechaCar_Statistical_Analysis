@@ -11,15 +11,19 @@
 
 ## T-Tests on Suspension Coils
 Summary t-test:
+
 ![Summary t test](https://user-images.githubusercontent.com/95390073/168407676-08a10868-ecb3-45f2-b824-dc9c9230c0ff.png)
 
 Lot 1 t-test:
+
 ![Lot1 t-test](https://user-images.githubusercontent.com/95390073/168407693-3e56eee8-4445-41f9-aee3-7e4bb3e087ad.png)
 
 Lot 2 t-test:
+
 ![lot 2 t-test](https://user-images.githubusercontent.com/95390073/168407715-58923d40-8086-44f1-9ddf-b53f9bd978f8.png)
 
 Lot 3 t-test:
+
 ![lot 3 t-test](https://user-images.githubusercontent.com/95390073/168407741-eb6dc387-571d-4d0d-93b1-6439700ec055.png)
 
 ## Study Design: MechaCar vs Competition
